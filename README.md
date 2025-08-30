@@ -1,4 +1,4 @@
-# STAR Language - Quick Reference
+# STAR Language 
 
 STAR is a small scripting language supporting integers and text (strings) with basic arithmetic, I/O, and loops.
 
