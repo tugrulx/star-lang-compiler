@@ -1,0 +1,35 @@
+text start.
+text a is "a stringi",c,d. /* comment */.
+d is "d stringi".
+d is "yeni " + d.
+c is        /* coment again */
+"c stringi",start is "start".
+write "Stringleri yazdirmaya basliyorum.", start.
+newLine.
+write a.
+newLine.
+write c.
+newLine.
+write d.
+newLine.
+int f is 99.
+f is 77-100.
+write f. newLine.
+int i is 1.
+loop 5 times write f.
+newLine.
+loop 3 times
+{
+write i.
+newLine.
+i is i+1.
+}
+loop 3 times write i, " ".
+newLine.
+newLine.
+read "bir sayi giriniz" sayi.
+sayi is sayi/2.
+write "sayinin yarisi", "   ", sayi.
+newLine.
+text c is c- "c".
+write c.
